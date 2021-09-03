@@ -1,0 +1,11 @@
+System consisting of 8 polymer chains at the chloroform-water interface
+The polymers consist of 60 monomers: 50 PS + 10 2QVP
+The topology file of the polymer is psp2vp.itp
+Several mdp files are provided too.
+
+References
+
+Self-Assembly of Charge-Containing Copolymers at the Liquid–Liquid Interface
+F. Jiménez-Ángeles, H-K Kwon, K. Sadman, T. Wu, K. R. Shull, and M. Olvera de la Cruz
+ACS Cent. Sci. 2019, 5, 4, 688–699
+
