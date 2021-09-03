@@ -1,0 +1,14 @@
+#include "../martini_ff/martini_v2.2P_PS.itp"
+#include "../psp2vp.itp"
+#include "../martini_ff/martini_v2.0_solvents.itp"
+#include "../martini_ff/martini_v2.0_ions.itp"
+
+; Define a name for your system
+
+[ system ]
+PSP2VP
+
+[ molecules ]
+PSPVP       8
+CLF      58000
+PW       24000
